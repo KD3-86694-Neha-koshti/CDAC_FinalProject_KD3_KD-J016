@@ -1,0 +1,10 @@
+.page {
+  /* background-color: #D7D3BF; */
+  background-color: color-mix(in srgb, #edbb25 60%, #e4e3d8 40%);
+  height: 100vh;
+  opacity: 100%;
+}
+.header {
+  text-align: center;
+  margin: 20px;
+}
